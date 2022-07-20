@@ -1,6 +1,4 @@
-# Udacity Landing Page Project
-
-## Table of Contents
+## Udacity Landing Page Project
 
 ### Project Structure
 ```
@@ -20,4 +18,3 @@ $ git clone git@github.com:Ahmed-517/udacity-landing-page.git
 
 ### View Project
 You can see live preview of the project [here](https://ahmed-517.github.io/udacity-landing-page/).
-
