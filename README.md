@@ -15,7 +15,7 @@ README.md
 ### Installing the project
 You can just clone the project using:
 ```
-git clone git@github.com:Ahmed-517/udacity-landing-page.git
+$ git clone git@github.com:Ahmed-517/udacity-landing-page.git
 ```
 
 ### View Project
